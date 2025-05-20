@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Agrawal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [my fullstack chat application](https://github.com/dhruv0503/bigChatApp)
+- 🔭 I’m currently working on [my fullstack chat application](https://big-chat-app.vercel.app)
 
 - 🌱 I’m currently learning **React and Material UI**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhruv2505.dag@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17QJ21AGhqH3tEpFbVDhz_5izP-EvbTbA/view?usp=drive_link](https://drive.google.com/file/d/17QJ21AGhqH3tEpFbVDhz_5izP-EvbTbA/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17QJ21AGhqH3tEpFbVDhz_5izP-EvbTbA/view?usp=drive_link]((https://drive.google.com/file/d/1KsDFof0vP17gkGOLuSkssoeip_51xuYe/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
