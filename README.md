@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **dhruv2505.dag@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17QJ21AGhqH3tEpFbVDhz_5izP-EvbTbA/view?usp=drive_link]((https://drive.google.com/file/d/1KsDFof0vP17gkGOLuSkssoeip_51xuYe/view?usp=sharing))
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KsDFof0vP17gkGOLuSkssoeip_51xuYe/view?usp=sharing](https://drive.google.com/file/d/1KsDFof0vP17gkGOLuSkssoeip_51xuYe/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhruv-agrawal-724556228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-agrawal-724556228" height="30" width="40" /></a>
